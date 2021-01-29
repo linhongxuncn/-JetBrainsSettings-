@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="DevKit Errors" shouldLog="false" />
+  </component>
+</application>
